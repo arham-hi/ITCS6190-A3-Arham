@@ -1,8 +1,10 @@
 # Assignment #3: Report
 
-**Name:**
-**Student ID:**
-**Email:**
+**Name: Arham Hussain Inamdar**
+
+**Student ID: 801404110**
+
+**Email: ainamda3@charlotte.edu**
 
 ---
 
